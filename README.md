@@ -7,7 +7,7 @@
 ## How to install
 
 #### Using script
-Download archivee to your computer, open the folder in Terminal, execute next command:
+Download archive to your computer, open the folder in Terminal, execute the next command:
 ```shell
 swift install.swift
 ```
@@ -17,7 +17,7 @@ Go to Application folder, browse to the Xcode application icon. Right-click it a
 `Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application` and add "MVVM Module.xctemplate" file. Now you can find your template in Xcode.
 
 ## How it works?
-Open xcode, Create a new group in your project for your module and named it e.g. `Profile Module` then create a new file inside that folder and select MVVM Module, type the name, and your files will be generated.
+Open Xcode, Create a new group in your project for your module and named it e.g. `Profile Module` then create a new file inside that folder and select MVVM Module, type the name, and your files will be generated.
 
 ## Implemented for the MVVM project
 
