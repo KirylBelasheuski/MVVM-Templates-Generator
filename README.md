@@ -9,7 +9,7 @@
 #### Using script
 Download archivee to your computer, open the folder in Terminal, execute next command:
 ```shell
-sudo swift install.swift
+swift install.swift
 ```
 
 ### Manual Installation
